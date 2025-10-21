@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background: linear-gradient(180deg, #2ecc71, #f1c40f);
+}
+h1 {
+    /* optional: zentrieren und Kontrast verbessern */
+    text-align: center;
+    color: #ff0000;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    margin-top: 2rem;
+}
